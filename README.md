@@ -1,1 +1,1 @@
-# blog
+This is where I will put my resume, projects, arts, and blogs.
