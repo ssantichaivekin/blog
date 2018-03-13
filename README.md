@@ -1,1 +1,1 @@
-This is where I will put my resume, projects, arts, and blogs.
+This is where I will put my resume, projects, arts, and blog posts.
