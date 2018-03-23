@@ -57,7 +57,7 @@ Okay, now let's look at something that would be quite helpful:
 - Robotics.
 - Competitive Programming. If you are good at competitive programming, that's cool, except if you write int a,b,c,d,e,f,g at the start of every program. Basically, competitive programming is a big plus, but only if you also can explain algorithms to a normal decent human being.
 
-I should say that these things are really good. If you have more than five of the things listed, you might easily get into
+I should say that these things are really good. If you have more than five of the things listed above, you might easily get into Facebook University or Microsoft Explore program.
 
 Now let's look at the thing I believe they are really looking for:
 - Team programming projects.
@@ -71,7 +71,9 @@ Now let's look at the thing I believe they are really looking for:
 
 Note that for international students, they often also look for proficiency in English. This does not mean your TOEFL score, but rather that you can communicate well in career fair in interviews.
 
-## Second Step: Know Yourself
+## Second Step: Know Yourself - Write a Resume
+
+## Third Step: Tech Interview
 
 ## Third Step: Improve Yourself
 
@@ -79,17 +81,17 @@ Note that for international students, they often also look for proficiency in En
 
 ## Extra: But why am I in such a rush?
 
-After reading all this, you might still think finding internship in the first year is still too much. But I guess I will have to tell you my own secret.
+After reading all this, you might still think finding internship in the first year is still unnecessary. I guess I will have to tell you my own secret.
 
 Whisper: Well, if you are like me, and I hope you are not, you will graduate with around four hundred thousand dollars of debt. Again, I hope you are not, but if you are, you will have to find a job that will pay for your debt. And if economic independence is one of your goal, you will want to find a well-paying job that will get you out of your debt fast.
 
 So basically, I want to make sure I have a job after I graduate.
 
-Whisper: Exchange-student (J-1) visa holders are even less likely to be hired, and I'm holding that kind of visa. Two of my friends got their internship offers cancled after the employer knows that they are holding J-1. Of course, the company won't tell you that that's the reason, and, of course, the career services would not help you if this kind of thing happens.
+Whisper: Exchange-student (J-1) visa holders are even less likely to be hired, and I'm holding that kind of visa. Two of my friends got their internship offers cancled just when the employer knows that they are holding J-1. Of course, the company won't tell you that's the reason, and, of course, the career services would not help you if this kind of thing happens.
 
-Whisper: The reason recruiters do not like J-1 is because a J-1 holder can only work for two years after graduation. After that, they are not allowed to stay in the US until they go back to their home country for two years. Although there some ways to get around this, say, go work in Canada to pay off the debt before returning to the home country, it does not happen a lot.
+Whisper: The reason recruiters do not like J-1 is because a J-1 holder can only work for two years after graduation. After that, they are not allowed to stay in the US until they go back to their home country for two years. Although there some ways to get around this, say, work in Canada to pay off the debt before returning to the home country, it does not happen a lot.
 
-So you see, a job is more important for me because it is harder for me to secure one. I also try harder for internship beacuse I know that unexpected surprise can happen.
+So you see, a job is more important for me because it is harder for me to secure one. I also have to try harder for internship beacuse I know that unexpected surprise can happen (say, Mike Pence becomes the next president).
 
 ## Extra 2:
 
