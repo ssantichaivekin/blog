@@ -22,16 +22,16 @@ I will tell you this. I don't care why you want to do tech internship. I don't c
 
 ## Zeroth Step: Know Where You Can Find Help
 
-Go to your school's career services if your school have one, and it should. They will be able to help you. 
-You should ask for their walk-in hours if they so have that. Ask them everything you want about career fair. Also ask them what you are supposed to ask. The career services, together with your school writing center, will be the place and the people who will help you proofread your resumes and cover letters. It is very important to have people help you draft and read your resumes and cover letters, especially if you are an international students.
+Go to your school's career services. They will be able to help you. 
+You should ask for their walk-in hours if they have one. Ask them everything you want about career fair. Also ask them what you are supposed to ask. The career services, together with your school writing center, will be the place and the people who will help you proofread your resumes and cover letters. It is very important to have people help you draft and read your resumes and cover letters, especially if you are an international student.
 
-There is also another (secret) resource I want to tell you. That is, the upperclassmen you admire. If you think someone is very good at CS, ask them for advice. If you think someone is doing a really cool project, ask them how they came up with it. Ask them to recommend you a learning path. If you follow their learning path, you can ask them for help!
+There is also another resource I want to tell you. It is the upperclassmen you admire. If you think someone is very good at CS, ask them for advice. If you think someone is doing a really cool project, ask them how they came up with it. Ask them to recommend you a learning path. If you follow their learning path, you can ask them for help!
 
 Also, of course you can ask me, but the best I can do is point you to people who are more helpful.
 
 ## First Step: But what is a tech internship?
 
-You are applying for a software development internship. It's almost always software development. What does that mean? Okay. Let's look at what what they are looking for. The list is ordered by increasing importance. (Of course it is subjective!)
+You are applying for a software development internship. It's almost always software development. What does that mean? Okay. Let's look at what what they are looking for. The list is ordered by increasing importance. (It is subjective!)
 
 But first, let's first think about what they are not looking for:
 - Enthusiasm in cooking.
@@ -42,12 +42,12 @@ But first, let's first think about what they are not looking for:
 - Painting skills.
 - Your clubs.
 - Choir.
-- Math. If you are good at math, then that's a plus. But they are not definitely not looking at your great abstract algebra or topology skills.
 - Grades. They do look at your grades. But as long as it's not too bad, it's fine.
 
 I'm not saying that you shouldn't put those in your resume. But if you do, don't try to hilight it. Put it in as a place holder.
 
 Okay, now let's look at something that would be quite helpful:
+- Math. If you are good at math, then that's a plus. But they are not definitely not looking at your great abstract algebra or topology skills.
 - Public Speaking skills.
 - Other language skills. It's good that you can speak multiple languages.
 - Community Service.
@@ -58,9 +58,9 @@ Okay, now let's look at something that would be quite helpful:
 - Robotics or engineering projects.
 - Competitive Programming. If you are good at competitive programming, that's cool, except if you write int a,b,c,d,e,f,g at the start of every program, then not cool. Basically, competitive programming is a big plus, but only if you can explain algorithms to a normal decent human being.
 
-I should say that these things are really cool. If you have four or more from the list above, you have a really good chance of getting into freshmen-only programs such as Facebook University or Microsoft Explore program. If you don't have any, don't worry, it's not that important.
+These things are really cool. If you have four or more from the list above, you have a really good chance of getting into freshmen-only programs such as Facebook University or Microsoft Explore. If you don't have any, don't worry, it's not that important for this position.
 
-Now let's look at the things I think they are looking for:
+Here's what they are looking for:
 - TA experience in CS class, especially if it pays.
 - Programming Languages you are confident in. Aim for two or more.
 - Git/GitHub. Know how to use Git and have a GitHub account.
@@ -109,7 +109,10 @@ I can give you some recommendations on what you might want to try:
 
 This seems like a lot, but you don't have to do all of it. Just choose one or two that you want to do.
 
-I will warn you that these things are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
+Expect each thing in the list to take one to three months. Don't rush. They are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
+
+Some of you, after reading all this, will think that it is too much. If you are already tired and are reading this, rest, and come back again later. Abraham Lincoln said that "You cannot now believe that you will ever feel better. But this is not true. You are sure to be happy again. Knowing this, truly believing it will make you less miserable now."
+This is also true for self-improvement. Knowing that you will improve, and truely believing in it, will make you learn better now.
 
 ## Forth Step: Tech Interview
 
