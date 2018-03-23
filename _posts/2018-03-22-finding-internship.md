@@ -64,7 +64,6 @@ Now let's look at the things I think they are looking for:
 - TA experience in CS class, especially if it pays.
 - Programming Languages you are confident in. Aim for two or more.
 - Git/GitHub. Know how to use Git and have a GitHub account.
-- Framework you are confident in. Aim for one. Something like Rails or Django.
 - Software development hackathons.
 - Knowledge in data structures.
 - Previous research experience.
@@ -89,7 +88,7 @@ Here is what my [first resume][first-resume] looks like.
 
 [first-resume]: 
 
-Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me.
+Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me. As you can see, my resume did not pass the 
 
 Note that if you say you can write C in your resume, interviewers might ask you to write your code in C (or C-style psudocode). That happened to me.
 
@@ -97,7 +96,7 @@ I recommend that you go to career services to help you draft your first resume. 
 
 ## Third Step: Improve Yourself
 
-I have seen people, who, believing that they are already fit for internship positions, use their time to improve the resumes but not their techincal experience. That's why I write out the list very clearly and say that four items from the last list is something you should aim for. (Three might be enough if you are of underrepresented identities.) 
+I have seen people, who, believing that they are already fit for internship positions, use their time to improve the resumes refuse to improve their techincal skills. That's why I write out the list very clearly and say that four items from the last list is a good standard you should aim for. (Three might be enough if you are of underrepresented identities.)
 
 I can give you some recommendations on what you might want to try:
 
@@ -109,6 +108,8 @@ I can give you some recommendations on what you might want to try:
 - Start a team project with friends or club. Only do this if your friends are enthusiastic about it.
 
 This seems like a lot, but you don't have to do all of it. Just choose one or two that you want to do.
+
+I will warn you that these things are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
 
 ## Forth Step: Tech Interview
 
