@@ -12,7 +12,7 @@ Throughout this post, I will tell you many things that I consider to be helpful 
 
 Read more about mindsets [here](from-radon) and [here](from-kws).
 
-Also, although I am trying to write for international students, this applies to all freshmen, actaully all people who are looking for their first tech internship.
+Also, although I am trying to write for international students, this applies to all freshmen, actaully all people who are looking for their first tech internship. This guide is extremely subjective, and it is intended to be that way, partly because I believe that a subjective advice (like "you should go to hackathons") is more useful than no advice (like not making real advice and say "good luck on the career fair").
 
 This article is devoted to [KorlaMarch](korlamarch-github).
 
@@ -36,21 +36,19 @@ Also, of course you can ask me, but the best I can do is point you to people who
 You are applying for a software development internship. It's almost always software development. What does that mean? Okay. Let's look at what what they are looking for.
 
 But first, let's first think about what they are not looking for:
-
 - Enthusiasm in cooking.
 - How well you play skateboard.
 - The fact that you like to eat cookies.
-- Microsoft Word skills.
+- Word/Powerpoint/Photoshop skills.
 - LaTex.
 - Painting skills.
 - Your reading club.
 - Math. If you are good at math, then that's a plus. But they are not definitely not looking at your great abstract algebra or topology skills.
-- Grades. I mean, they do look at your grades. As long as it's not too bad, it's fine.
+- Grades. They do look at your grades. But as long as it's not too bad, it's fine.
 
 I'm not saying that you shouldn't put those in your resume. But if you do, don't try to hilight it.
 
 Okay, now let's look at something that would be quite helpful:
-
 - Public Speaking skills.
 - Other language skills. It's good that you can speak multiple languages.
 - Community Service.
@@ -61,18 +59,23 @@ Okay, now let's look at something that would be quite helpful:
 
 I should say that these things are really good. If you have more than five of the things listed, you might easily get into
 
-Now let's look at the thing they are really looking for:
+Now let's look at the thing I believe they are really looking for:
 - Team programming projects.
 - Personal programming projects.
 - Knowledge in data structures.
 - Git.
 - Previous research experience.
 - Your previous jobs. By this, I mean anything that pays.
+- TA experience in CS class.
 - Software development hackathons.
 
 Note that for international students, they often also look for proficiency in English. This does not mean your TOEFL score, but rather that you can communicate well in career fair in interviews.
 
 ## Second Step: Know Yourself
+
+## Third Step: Improve Yourself
+
+
 
 ## Extra: But why am I in such a rush?
 
@@ -90,7 +93,7 @@ So you see, a job is more important for me because it is harder for me to secure
 
 ## Extra 2:
 
-Microsoft called me (unofficailly) that I got the internship the day I started writing this. So I guess my article is more legit now.
+Microsoft called me (unofficailly) that I got the internship just the day I started writing this. So I guess my article is more legit now.
 
 
 
