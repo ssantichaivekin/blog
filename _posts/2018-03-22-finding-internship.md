@@ -33,7 +33,7 @@ Also, of course you can ask me, but the best I can do is point you to people who
 
 ## First Step: But what is a tech internship?
 
-You are applying for a software development internship. It's almost always software development. What does that mean? Okay. Let's look at what what they are looking for.
+You are applying for a software development internship. It's almost always software development. What does that mean? Okay. Let's look at what what they are looking for. The list is ordered by increasing importance. (Of course it is subjective!)
 
 But first, let's first think about what they are not looking for:
 - Enthusiasm in cooking.
@@ -53,25 +53,30 @@ Okay, now let's look at something that would be quite helpful:
 - Other language skills. It's good that you can speak multiple languages.
 - Community Service.
 - Participation in underrepresented community group activities.
+- The club that you founded.
 - Graphic Design Skills. If you are familiar with graphic designs, then that might be a plus, but it depends.
-- Robotics.
+- Robotics or engineering projects.
 - Competitive Programming. If you are good at competitive programming, that's cool, except if you write int a,b,c,d,e,f,g at the start of every program. Basically, competitive programming is a big plus, but only if you also can explain algorithms to a normal decent human being.
 
-I should say that these things are really good. If you have more than five of the things listed above, you might easily get into Facebook University or Microsoft Explore program.
+I should say that these things are really good. If you have more than five of the things listed above, you could easily get into Facebook University or Microsoft Explore program.
 
 Now let's look at the thing I believe they are really looking for:
-- Team programming projects.
-- Personal programming projects.
-- Knowledge in data structures.
-- Git.
-- Previous research experience.
 - Your previous jobs. By this, I mean anything that pays.
 - TA experience in CS class.
+- Programming Languages you can write. The more, the better. If you know some Python and want to learn a second language, I would recommend you (and I think this is controversial) to go for Bash.
+- Git.
+- Framework you can use. (the more, the better)
 - Software development hackathons.
+- Knowledge in data structures.
+- Previous research experience.
+- Personal programming projects.
+- Team programming projects.
 
 Note that for international students, they often also look for proficiency in English. This does not mean your TOEFL score, but rather that you can communicate well in career fair in interviews.
 
 ## Second Step: Know Yourself - Write a Resume
+
+My first advice is to not claim something you cannot do. Basically, I wrote that I was familiar with C in my resume, so my interviewer became interested and ask me to implement a problem in C.
 
 ## Third Step: Tech Interview
 
