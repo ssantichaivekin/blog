@@ -10,7 +10,7 @@ I've seen many international students strive to find a tech internship or resear
 
 Throughout this post, I will tell you many things that I consider to be helpful and important. I will recommend you to do personal or group projects, take up a TA position, do hackathons or competitive programming, and other things. But you should always remember that what you do is not as important as how you think. Mindset is the most important thing here. It will help lead you to the right place, the right activity, and, if you are lucky, the freshman internship.
 
-Read more about mindsets [here](from-radon) and [here](from-kws).
+Read more about mindsets [here][from-radon] and [here][from-kws].
 
 Also, although I am trying to write for international students, this applies to all freshmen, actaully all people who are looking for their first tech internship. This guide is extremely subjective, and it is intended to be that way, partly because I believe that a subjective advice (like "you should go to hackathons") is more useful than no advice (like not making real advice and say "good luck on the career fair").
 
@@ -116,7 +116,7 @@ Some freshmen-only programs do not have tech interview. (I have heard that Faceb
 
 The best way to practice doing tech interview is having one. Mock interviews are not as good as real interviews.
 
-I can tell you a lot of things on tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. They will be able to help you.
+I can tell you a lot of things on tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. Check out the videos and go to career services to practice interviews even though you know you can slove the problems. The hard is often the explanation, rather than the solution itself.
 
 ## Don't Give Up
 
