@@ -130,7 +130,7 @@ However, be careful if you are applying to freshmen-only programs. Those program
 
 ## Bonus 0: List of company programs you should apply.
 
-First year internships:
+First-year oriented internships:
 [Facebook University](https://www.facebook.com/careers/university/fbu)
 [Google Engineering Practicum Intern](https://careers.google.com/students/engineering-and-technical-internships/)
 [Microsoft Explore](https://careers.microsoft.com/us/en)
