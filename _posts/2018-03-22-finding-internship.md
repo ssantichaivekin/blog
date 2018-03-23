@@ -3,7 +3,6 @@ layout: single
 title: 'How to get into a CS internship for international freshman'
 date: 2018-03-13 9:43:00 -0700
 share: false
-classes: wide
 related: false
 ---
 
