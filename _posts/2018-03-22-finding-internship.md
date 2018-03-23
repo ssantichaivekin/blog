@@ -126,6 +126,23 @@ However, be careful if you are applying to freshmen-only programs. Those program
 
 ## Bonus 0: List of company programs you should apply.
 
+First year internships:
+[Facebook University](https://www.facebook.com/careers/university/fbu)
+[Google Engineering Practicum Intern](https://careers.google.com/students/engineering-and-technical-internships/)
+[Microsoft Explore](https://careers.microsoft.com/us/en)
+
+List of companies known to accept first year international students for their normal software engineering internships:
+
+Microsoft
+Facebook
+Twitter
+Uber
+Airbnb
+Dropbox
+Box
+
+There are, of course, a lot more companies that accept international frosh internship. Please add it here if you know some.
+
 ## Bonus 1: But why am I in such a rush?
 
 After reading all this, you might still think finding internship in the first year is still unnecessary. I guess I will have to tell you my own secret.
