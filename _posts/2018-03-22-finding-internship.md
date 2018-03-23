@@ -14,10 +14,6 @@ Read more about mindsets [here](from-radon) and [here](from-kws).
 
 Also, although I am trying to write for international students, this applies to all freshmen, actaully all people who are looking for their first tech internship. This guide is extremely subjective, and it is intended to be that way, partly because I believe that a subjective advice (like "you should go to hackathons") is more useful than no advice (like not making real advice and say "good luck on the career fair").
 
-This article is devoted to [KorlaMarch](korlamarch-github).
-
-[korlamarch-github]: https://github.com/KorlaMarch
-
 ## Motivation
 
 Well, I will just assume that you want an internship. I don't know why. People have different reasons. My reason is that my senior pressured me to get one. Some of my friends feel, I guess, inferior when they are going for CS major and have nothing to do in the summer. (Well, this is Harvey Mudd so...) Most think they will learn a lot from the internship, that it will be a good life experience. I think few, but some, are doing it for money. 
@@ -147,6 +143,9 @@ So you see, a job is more important for me because it is harder for me to secure
 ## Bonus 2:
 
 You might think I am writing this with too much confident. How can I, who haven't got any internship either, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is more legit now.
+
+This article is devoted to [KorlaMarch](korlamarch-github).
+[korlamarch-github]: https://github.com/KorlaMarch
 
 
 
