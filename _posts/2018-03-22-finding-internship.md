@@ -86,7 +86,7 @@ Take your time. Give yourself a week to write your resume. Don't rush. If you ar
 
 Here is what my [first resume][first-resume] looks like.
 
-[first-resume]: 
+[first-resume]: https://github.com/ssantichaivekin/blog/blob/master/assets/first-resume.pdf
 
 Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me. As you can see, my resume did not pass the 
 
