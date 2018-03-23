@@ -56,7 +56,7 @@ Okay, now let's look at something that would be quite helpful:
 - The club that you founded.
 - Graphic Design Skills. If you are familiar with graphic designs, then that might be a plus, but it depends.
 - Robotics or engineering projects.
-- Competitive Programming. If you are good at competitive programming, that's cool, except if you write int a,b,c,d,e,f,g at the start of every program. Basically, competitive programming is a big plus, but only if you also can explain algorithms to a normal decent human being.
+- Competitive Programming. If you are good at competitive programming, that's cool, except if you write int a,b,c,d,e,f,g at the start of every program, then not cool. Basically, competitive programming is a big plus, but only if you can explain algorithms to a normal decent human being.
 
 I should say that these things are really good. If you have more than five of the things listed above, you could easily get into Facebook University or Microsoft Explore program.
 
@@ -78,11 +78,13 @@ Note that for international students, they often also look for proficiency in En
 
 My first advice is to not claim something you cannot do. Basically, I wrote that I was familiar with C in my resume, so my interviewer became interested and ask me to implement a problem in C.
 
-## Third Step: Tech Interview
-
 ## Third Step: Improve Yourself
 
+## Forth Step: Tech Interview
 
+## Don't Give Up
+
+Contrary to the established idea that the recruiting season ends around Fall break, it actually ends around the start of Spring break. Less recruiting happens, but less people applying. Generally easier to get in because all the best people have already been recruited.
 
 ## Extra: But why am I in such a rush?
 
