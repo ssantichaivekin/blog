@@ -16,6 +16,8 @@ Also, although I am trying to write for international students, this applies to 
 
 This article is devoted to [KorlaMarch](korlamarch-github).
 
+[korlamarch-github]: https://github.com/KorlaMarch
+
 ## Motivation
 
 Well, I will just assume that you want an internship. I don't know why. People have different reasons. My reason is that my senior pressured me to get one. Some of my friends feel, I guess, inferior when they are going for CS major and have nothing to do in the summer. (Well, this is Harvey Mudd so...) Most think they will learn a lot from the internship, that it will be a good life experience. I think few, but some, are doing it for money. 
@@ -42,11 +44,12 @@ But first, let's first think about what they are not looking for:
 - Word/Powerpoint/Photoshop skills.
 - LaTex.
 - Painting skills.
-- Your reading club.
+- Your clubs.
+- Choir.
 - Math. If you are good at math, then that's a plus. But they are not definitely not looking at your great abstract algebra or topology skills.
 - Grades. They do look at your grades. But as long as it's not too bad, it's fine.
 
-I'm not saying that you shouldn't put those in your resume. But if you do, don't try to hilight it.
+I'm not saying that you shouldn't put those in your resume. But if you do, don't try to hilight it. Put it in as a place holder.
 
 Okay, now let's look at something that would be quite helpful:
 - Public Speaking skills.
@@ -54,39 +57,80 @@ Okay, now let's look at something that would be quite helpful:
 - Community Service.
 - Participation in underrepresented community group activities.
 - The club that you founded.
+- Your previous jobs. By this, I mean anything that pays.
 - Graphic Design Skills. If you are familiar with graphic designs, then that might be a plus, but it depends.
 - Robotics or engineering projects.
 - Competitive Programming. If you are good at competitive programming, that's cool, except if you write int a,b,c,d,e,f,g at the start of every program, then not cool. Basically, competitive programming is a big plus, but only if you can explain algorithms to a normal decent human being.
 
-I should say that these things are really good. If you have more than five of the things listed above, you could easily get into Facebook University or Microsoft Explore program.
+I should say that these things are really cool. If you have four or more from the list above, you have a really good chance of getting into freshmen-only programs such as Facebook University or Microsoft Explore program. If you don't have any, don't worry, it's not that important.
 
-Now let's look at the thing I believe they are really looking for:
-- Your previous jobs. By this, I mean anything that pays.
-- TA experience in CS class.
-- Programming Languages you can write. The more, the better. If you know some Python and want to learn a second language, I would recommend you (and I think this is controversial) to go for Bash.
-- Git.
-- Framework you can use. (the more, the better)
+Now let's look at the things I think they are looking for:
+- TA experience in CS class, especially if it pays.
+- Programming Languages you are confident in. Aim for two or more.
+- Git/GitHub. Know how to use Git and have a GitHub account.
+- Framework you are confident in. Aim for one. Something like Rails or Django.
 - Software development hackathons.
 - Knowledge in data structures.
 - Previous research experience.
 - Personal programming projects.
 - Team programming projects.
 
+I you have four or more from the list above, then you are good to go. You are quite likely to get an internship. To be on the safer side, aim for five or six.
+
 Note that for international students, they often also look for proficiency in English. This does not mean your TOEFL score, but rather that you can communicate well in career fair in interviews.
+
+Also, freshmen-only internships generally require less technical knowledge. These are mostly held by big companies to promote their companies. For example, you are much likely to get an Engineering Practicum Intern at Google than a Software Engineer Intern at Dropbox. These programs will care more about your personal life, your high school clubs, and your community services. These programs also prefer people with underrepresented identities. Definitely apply if you are a woman, or LGBTQ, or is of an underrepresented race.
 
 ## Second Step: Know Yourself - Write a Resume
 
-My first advice is to not claim something you cannot do. Basically, I wrote that I was familiar with C in my resume, so my interviewer became interested and ask me to implement a problem in C.
+Well, look at the lists above and then just list out what you have done. After that, go to career services with the list. They will help you come up with a pretty good resume.
+
+When you write your resume, be true to yourself. It is better to have short and relevant resume than long resume filled with with irrelevant things.
+
+Take your time. Give yourself a week to write your resume. Don't rush. If you are like me, you did your CS projects in your home country, in your home language. If that is the case, it is better to try to recall those memories and write about it in your native language first, and then translate it later. If your memory is encrypted in your native language, it is much harder to retrieve it in English. In this sense, the people who will be the most helpful to you are your friends of upperclassmen from your home country.
+
+Here is what my [first resume][first-resume] looks like.
+
+[first-resume]: 
+
+Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me.
+
+Note that if you say you can write C in your resume, interviewers might ask you to write your code in C (or C-style psudocode). That happened to me.
+
+I recommend that you go to career services to help you draft your first resume. If you think it looks good and it shows that you have the ability they are looking for, then you are good. Proofread the resume and submit. If that's the case, then generally you won't be reading my article. The problem most people face is that they do not have enough experience to secure an internship in the first place.
 
 ## Third Step: Improve Yourself
 
+I have seen people, who, believing that they are already fit for internship positions, use their time to improve the resumes but not their techincal experience. That's why I write out the list very clearly and say that four items from the last list is something you should aim for. (Three might be enough if you are of underrepresented identities.) 
+
+I can give you some recommendations on what you might want to try:
+
+- Apply for CS TA in your second semester.
+- Learn Bash and Git. I have [a good coursera course here](https://www.coursera.org/learn/unix). I think most Git tutorials on Google are good. I personally like Codeschool's tutorial. If you have a question about Git, go ask a CS upperclassman.
+- Learn Javascript/HTML/CSS bundle (only if you want to work on JavaScript project).
+- Go to software development ackathons. Spend the time to talk with people and learn from them.
+- Do a personal project. See [kosate.com](http://kosate.com) for some ideas of web projects. You can look at [my github](https://github.com/ssantichaivekin) for some small python projects. If you want some project ideas, you can ask me.
+- Start a team project with friends or club. Only do this if your friends are enthusiastic about it.
+
+This seems like a lot, but you don't have to do all of it. Just choose one or two that you want to do.
+
 ## Forth Step: Tech Interview
+
+Some freshmen-only programs do not have tech interview. (I have heard that Facebook University doesn't have one.) Instead, they have phone interviews and ask behavioral questions.
+
+The best way to practice doing tech interview is having one. Mock interviews are not as good as real interviews.
+
+I can tell you a lot of things on tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. They will be able to help you.
 
 ## Don't Give Up
 
-Contrary to the established idea that the recruiting season ends around Fall break, it actually ends around the start of Spring break. Less recruiting happens, but less people applying. Generally easier to get in because all the best people have already been recruited.
+Contrary to the established idea that the recruiting season ends around Fall break, it actually ends at around the start of Spring break. There are less recruiting in the Spring, but there are less people applying. I believe it is generally easier to get in because all the best people have already been recruited. In this sense, Fall break and Winter break is the best time to improve yourself, work on personal projects, and learn new things. But don't force yourself too much. School is hard and you should rest a lot in the break.
 
-## Extra: But why am I in such a rush?
+However, be careful if you are applying to freshmen-only programs. Those programs generally get filled by the end of Fall semester.
+
+## Bonus 0: List of company programs you should apply.
+
+## Bonus 1: But why am I in such a rush?
 
 After reading all this, you might still think finding internship in the first year is still unnecessary. I guess I will have to tell you my own secret.
 
@@ -100,9 +144,9 @@ Whisper: The reason recruiters do not like J-1 is because a J-1 holder can only 
 
 So you see, a job is more important for me because it is harder for me to secure one. I also have to try harder for internship beacuse I know that unexpected surprise can happen (say, Mike Pence becomes the next president).
 
-## Extra 2:
+## Bonus 2:
 
-Microsoft called me (unofficailly) that I got the internship just the day I started writing this. So I guess my article is more legit now.
+You might think I am writing this with too much confident. How can I, who haven't got any internship either, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is more legit now.
 
 
 
