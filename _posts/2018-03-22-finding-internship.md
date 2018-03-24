@@ -19,7 +19,7 @@ Also, although I am trying to write for international students, this applies to 
 
 ## Motivation
 
-Well, I will just assume that you want an internship. I don't know why. People have different reasons. My reason is that my senior pressured me to get one. Some of my friends feel, I guess, inferior when they are going for CS major and have nothing to do in the summer. (Well, this is Harvey Mudd so...) Most think they will learn a lot from the internship, that it will be a good life experience. I think few, but some, are doing it for money. 
+Well, I will just assume that you want an internship. I don't know why. People have different reasons. My reason is that a senior pressured me to get one. Some of my friends feel, I guess, inferior when they are going for CS major and have nothing to do in the summer. (Well, this is Harvey Mudd so...) Most think they will learn a lot from the internship, that it will be a good life experience. I think few, but some, are doing it for money. 
 
 I will tell you this. I don't care why you want to do tech internship. I don't care how legit your reasons are. Just know that I want to help you.
 
