@@ -12,7 +12,7 @@ Throughout this post, I will tell you many things that I consider to be helpful 
 
 Read more about that [here][from-radon] and [here][from-kws].
 
-[from-radon]: {{ % post_url 2018-03-23-radon-told-me}}
+[from-radon]: { % post-url 2018-03-23-radon-told-me % }
 [from-kws]: kws
 
 Also, although I am trying to write for international students, this applies to all freshmen, actaully all people who are looking for their first tech internship. This guide is extremely subjective, and it is intended to be that way, partly because I believe that a subjective advice (like "you should go to hackathons") is more useful than no advice (like not making real advice and say "good luck on the career fair").
