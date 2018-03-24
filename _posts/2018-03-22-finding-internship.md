@@ -151,7 +151,7 @@ Airbnb
 Dropbox
 Box
 
-There are, of course, a lot more companies that accept international frosh internship. Please add it here if you know some.
+There are, of course, a lot more companies that accept international freshmen internship. Please add it here if you know some.
 
 ## Bonus 1: But why am I in such a rush?
 
