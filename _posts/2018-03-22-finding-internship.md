@@ -50,7 +50,7 @@ But first, let's first think about what they are not looking for:
 I'm not saying that you shouldn't put those in your resume. But if you do, don't try to hilight it. Put it in as a place holder.
 
 Okay, now let's look at something that would be quite helpful:
-- Math. If you are good at math, then that's a plus. But they are not definitely not looking at your great abstract algebra or topology skills.
+- Math. If you are good at math, then that's a plus. But they definitely do not care about your abstract algebra or topology skills.
 - Public Speaking skills.
 - Other language skills. It's good that you can speak multiple languages.
 - Community Service.
