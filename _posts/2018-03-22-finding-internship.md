@@ -91,7 +91,7 @@ Here is what my [first resume][first-resume] looks like.
 
 [first-resume]: https://github.com/ssantichaivekin/blog/blob/master/assets/first-resume.pdf
 
-Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me. As you can see, my resume did not pass my own standard either, and that mean I will have to improve.
+Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me. As you can see, my resume did not pass my own standard either, and that means I will have to improve.
 
 Note that if you say you can write C in your resume, interviewers might ask you to write your code in C (or C-style psudocode). That happened to me.
 
@@ -119,9 +119,9 @@ This is also true for self-improvement. Knowing that you will improve, and truel
 
 ## Forth Step: Tech Interview
 
-Some freshmen-only programs do not have tech interview. (I have heard that Facebook University doesn't have one.) Instead, they have phone interviews and ask behavioral questions.
+Some freshmen-only programs do not have tech interview. I have heard that Facebook University doesn't have one. Instead, they have phone interviews and ask behavioral questions.
 
-The best way to practice doing tech interview is having one. Mock interviews are not as good as real interviews.
+The best way to practice doing tech interview is being in one. Mock interviews are not as good as real interviews.
 
 I can tell you a lot of things on tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. Check out the videos and go to career services to practice interviews even though you know you can slove the problems. The hard is often the explanation, rather than the solution itself.
 
