@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'How to get into a CS internship for international freshman'
-date: 2018-03-13 9:43:00 -0700
+date: 2018-03-22 9:43:00 -0700
 share: false
 related: false
 ---
@@ -11,6 +11,9 @@ I've seen many international students strive to find a tech internship or resear
 Throughout this post, I will tell you many things that I consider to be helpful and important. I will recommend you to do personal or group projects, take up a TA position, do hackathons or competitive programming, and other things. But you should always remember that what you do is not as important as how you think. Mindset is the most important thing here. It will help lead you to the right place, the right activity, and, if you are lucky, the freshman internship.
 
 Read more about mindsets [here][from-radon] and [here][from-kws].
+
+[from-radon]: radon
+[from-kws]: kws
 
 Also, although I am trying to write for international students, this applies to all freshmen, actaully all people who are looking for their first tech internship. This guide is extremely subjective, and it is intended to be that way, partly because I believe that a subjective advice (like "you should go to hackathons") is more useful than no advice (like not making real advice and say "good luck on the career fair").
 
