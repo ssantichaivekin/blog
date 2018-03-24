@@ -10,9 +10,9 @@ I've seen many international students strive to find a tech internship or resear
 
 Throughout this post, I will tell you many things that I consider to be helpful and important. I will recommend you to do personal or group projects, take up a TA position, do hackathons or competitive programming, and other things. But you should always remember that what you do is not as important as how you think. Mindset is the most important thing here. It will help lead you to the right place, the right activity, and, if you are lucky, the freshman internship.
 
-Read more about mindsets [here][from-radon] and [here][from-kws].
+Read more about that [here][from-radon] and [here][from-kws].
 
-[from-radon]: radon
+[from-radon]: {{ % post_url 2018-03-23-radon-told-me}}
 [from-kws]: kws
 
 Also, although I am trying to write for international students, this applies to all freshmen, actaully all people who are looking for their first tech internship. This guide is extremely subjective, and it is intended to be that way, partly because I believe that a subjective advice (like "you should go to hackathons") is more useful than no advice (like not making real advice and say "good luck on the career fair").
@@ -91,7 +91,7 @@ Here is what my [first resume][first-resume] looks like.
 
 [first-resume]: https://github.com/ssantichaivekin/blog/blob/master/assets/first-resume.pdf
 
-Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me. As you can see, my resume did not pass the 
+Well, you might see that my resume is quite interesting, but definitely not very well written. If you are good at English, you can definitely rewrite my resume better than me. As you can see, my resume did not pass my own standard either, and that mean I will have to improve.
 
 Note that if you say you can write C in your resume, interviewers might ask you to write your code in C (or C-style psudocode). That happened to me.
 
