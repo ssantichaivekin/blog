@@ -64,7 +64,7 @@ Okay, now let's look at something that would be quite helpful:
 These things are really cool. If you have four or more from the list above, you have a really good chance of getting into freshmen-only programs such as Facebook University or Microsoft Explore. If you don't have any, don't worry, it's not that important for this position.
 
 Here's what they are looking for:
-- TA experience in CS class, especially if it pays.
+- Teaching Assistant experience in CS class, especially if it pays.
 - Programming Languages you are confident in. Aim for two or more.
 - Git/GitHub. Know how to use Git and have a GitHub account.
 - Software development hackathons.
@@ -103,14 +103,16 @@ I have seen people, who, believing that they are already fit for internship posi
 
 I can give you some recommendations on what you might want to try:
 
-- Apply for CS TA in your second semester.
+- Apply for CS Teaching Assistant in your second semester.
 - Learn Bash and Git. I have [a good coursera course here](https://www.coursera.org/learn/unix). I think most Git tutorials on Google are good. I personally like Codeschool's tutorial. If you have a question about Git, go ask a CS upperclassman.
 - Learn Javascript/HTML/CSS bundle (only if you want to work on JavaScript project).
 - Go to software development hackathons. Spend the time to talk with people and learn from them.
 - Do a personal project. See [kosate.com](http://kosate.com) for web project ideas. You can look at [my github](https://github.com/ssantichaivekin) for a small python project. If you want some project ideas, you can ask me.
 - Start a team project with friends or club. Only do this if your friends are enthusiastic about it.
 
-This seems like a lot, but you don't have to do all of it. Just choose one or two that you want to do.
+Of all the things listed, I think learning Git is the most important.
+
+This seems like a lot, but you don't have to do all of it. Just choose one or two that you want to do. If you know me personally, you would know that I have chosen CS Teaching Assistant, learning Bash and Git, and doing a personal project. If you choose to do personal or groups projects, make sure that you make it well documented, in case the recruiter comes to look.
 
 Expect each thing in the list to take one to three months. Don't rush. They are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
 
