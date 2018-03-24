@@ -34,7 +34,9 @@ Also, of course you can ask me, but the best I can do is point you to people who
 
 ## First Step: But what is a tech internship?
 
-You are applying for a software development internship. It's almost always software development. What does that mean? Okay. Let's look at what what they are looking for. The list is ordered by increasing importance. (It is subjective!)
+You are applying for a software development internship. It's almost always software development. What does that mean? Well, it means you are writing a software with a small team using source control. 
+
+Okay. Let's look at what what they are looking for. The list is ordered by increasing importance. (The list is subjective!)
 
 But first, let's first think about what they are not looking for:
 - Enthusiasm in cooking.
@@ -148,8 +150,9 @@ Facebook
 Twitter
 Uber
 Airbnb
-Dropbox
-Box
+Dropbox (hard)
+Box (hard)
+vmWare (hard)
 
 There are, of course, a lot more companies that accept international freshmen internship. Please add it here if you know some.
 
