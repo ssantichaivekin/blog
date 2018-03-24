@@ -8,6 +8,7 @@ related: false
 
 ### So at the end of the last semester, I sent Radon an email...
 
+- - - - - -
 Hi Radon,
 
 I'm an HMC frosh living in Fishbowl 1. I am very impressed by your hyper-schedule and your work in GitHub (more accurately, a small subset of your work. I haven't tried Emacs, so I cannot understand half of your GitHub.) Basically, I want to be good at software engineering like you. Do you have any recommendations on how I should start? Is there any extremely useful websites or mindsets you encountered along the way that you would like to share? 
@@ -16,9 +17,11 @@ Currently, I have just finished CS42 and I have some competitive programming bac
 
 Thanks,
 Santi.
+- - - - - -
 
 ### And this was the reply...
 
+- - - - - -
 Hi Santi,
 
 Firstly I'd recommend reading [Teach Yourself Programming in Ten Years][ten-years], and then probably [How to Become A Hacker][hacker]. After that, comes years of practice. Here are some things that I think would be good ideas for goals:
@@ -80,6 +83,7 @@ Let me know if you have any further questions, and feel free to forward this ema
 
 Best regards,
 Rаdon.
+- - - - - -
 
 ### And that was how it went.
 And I think I should says thanks sometimes.
