@@ -63,7 +63,7 @@ Okay, now let's look at something that would be quite helpful:
 - Robotics or engineering projects.
 - Competitive Programming. If you are good at competitive programming, that's cool, except if you write int a,b,c,d,e,f,g at the start of every program, then not cool. Basically, competitive programming is a big plus, but only if you can explain algorithms to a normal decent human being.
 
-These things are really cool. If you have four or more from the list above, you have a really good chance of getting into freshmen-only programs such as Facebook University or Microsoft Explore. If you don't have any, don't worry, it's not that important for this position.
+These things are really cool. If you have four or more from the list above, you have a really good chance of getting into freshmen-only programs such as Facebook University or Microsoft Explore. If you don't have any, don't worry, it's not that important for the software development position.
 
 Here's what they are looking for:
 - Teaching Assistant experience in CS class, especially if it pays.
@@ -77,7 +77,7 @@ Here's what they are looking for:
 
 I you have four or more from the list above, then you are good to go. You are quite likely to get an internship. To be on the safer side, aim for five or six.
 
-Note that for international students, they often also look for proficiency in English. This does not mean your TOEFL score, but rather that you can communicate well in career fair in interviews.
+Note that for international students, they often also look for proficiency in English. This does not mean they will look at your TOEFL score, but rather that you can communicate well in career fair in interviews.
 
 Also, freshmen-only internships generally require less technical knowledge. These are mostly held by big companies to promote their companies. For example, you are much likely to get an Engineering Practicum Intern at Google than a Software Engineer Intern at Dropbox. These programs will care more about your personal life, your high school clubs, and your community services. These programs also prefer people with underrepresented identities. Definitely apply if you are a woman, or LGBTQ, or is of an underrepresented race.
 
@@ -98,6 +98,8 @@ Well, you might see that my resume is quite interesting, but definitely not very
 Note that if you say you can write C in your resume, interviewers might ask you to write your code in C (or C-style psudocode). That happened to me.
 
 I recommend that you go to career services to help you draft your first resume. If you think it looks good and it shows that you have the ability they are looking for, then you are good. Proofread the resume and submit. If that's the case, then generally you won't be reading my article. The problem most people face is that they do not have enough experience to secure an internship in the first place.
+
+Also, some position will require a cover letter. The cover letter is not hard to write. There is an established template to follow. Just go to your school career services and ask for help. You should be able to finish it in less than an hour.
 
 ## Third Step: Improve Yourself
 
@@ -152,8 +154,9 @@ List of companies known to accept first year international students for their no
 Microsoft
 Facebook
 Twitter
-Uber
 Airbnb
+Yelp
+Uber
 Dropbox (hard)
 Box (hard)
 vmWare (hard)
