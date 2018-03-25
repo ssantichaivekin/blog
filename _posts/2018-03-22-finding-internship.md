@@ -6,7 +6,7 @@ share: false
 related: false
 ---
 
-I've seen many international students strive to find a tech internship or research to do in the summer. However, we all know that it is harder for international students, and even harder for international freshman. Truth be told, although I am writing this, I haven't got an internship either. But I have got some interviews. Just a few. Three to be excact. But many people haven't got any interview even though they tried hard. So I feel like I am a bit better off. I feel like I can help my friends. I guess if you are lucky, just a few tech interviews might be enough.
+I've seen many international students strive to find a tech internship or research to do in the summer. However, we all know that it is harder for international students, and even harder for international freshman. Truth be told, although I am writing this, I haven't got an internship either. But I have got some interviews. Just a few. Three to be excact. But many people haven't got any interview even though they tried hard. So I feel like I am a bit better off. I feel like I can help my friends. I guess if you are lucky, just a few tech interviews might be enough for you.
 
 Throughout this post, I will tell you many things that I consider to be helpful and important. I will recommend you to do personal or group projects, take up a TA position, do hackathons or competitive programming, and other things. But you should always remember that what you do is not as important as how you think. Mindset is the most important thing here. It will help lead you to the right place, the right activity, and, if you are lucky, the freshman internship.
 
@@ -117,6 +117,8 @@ I can give you some recommendations on what you might want to try:
 Of all the things listed, I think learning Git is the most important.
 
 This seems like a lot, but you don't have to do all of it. Just choose one or two that you want to do. If you know me personally, you would know that I have chosen CS Teaching Assistant, learning Bash and Git, and doing a personal project. If you choose to do personal or groups projects, make sure that you make it well documented, in case the recruiter comes to look.
+
+If you don't know what to choose, message me via Facebook.
 
 Expect each thing in the list to take one to three months. Don't rush. They are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely painful and boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
 
