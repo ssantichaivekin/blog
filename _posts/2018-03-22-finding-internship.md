@@ -167,7 +167,7 @@ vmWare (hard)
 
 There are, of course, a lot more companies that accept international freshmen internship. Please add it here if you know some.
 
-All of them have online applications. You can always apply online. It makes no difference whether you apply online or through career fairs.
+Note that all of them have online applications. You can always apply online. It makes no difference whether you apply online or through career fairs.
 
 ## Bonus 1: But why am I in such a rush?
 
