@@ -185,7 +185,7 @@ So you see, a job is more important for me because it is harder for me to secure
 
 ## Bonus 2:
 
-You might think I am writing this with too much confident. How can I, who haven't got any internship either, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is more legit now.
+You might think I am writing this with too much confident. How can I, someone who haven't got any internship, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is more legit now.
 
 This article is devoted to [KorlaMarch](korlamarch-github).
 [korlamarch-github]: https://github.com/KorlaMarch
