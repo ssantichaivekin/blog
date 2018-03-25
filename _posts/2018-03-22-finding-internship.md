@@ -111,7 +111,7 @@ I can give you some recommendations on what you might want to try:
 - Learn Bash and Git. I have [a good coursera course here](https://www.coursera.org/learn/unix). I think most Git tutorials on Google are good. I personally like Codeschool's tutorial. If you have a question about Git, go ask a CS upperclassman.
 - Learn Javascript/HTML/CSS bundle (only if you want to work on JavaScript project).
 - Go to software development hackathons. Spend the time to talk with people and learn from them.
-- Do a personal project. See [kosate.com](http://kosate.com) for web project ideas. You can look at [my github](https://github.com/ssantichaivekin) for a small python project. If you want some project ideas, you can ask me.
+- Do a personal project. See [kosate.com](http://kosate.com) for web project ideas. You can look at [my github](https://github.com/ssantichaivekin) for a small python project. If you want some project ideas, you can ask me. I have a lot in my drawer.
 - Start a team project with friends or club. Only do this if your friends are enthusiastic about it.
 
 Of all the things listed, I think learning Git is the most important.
