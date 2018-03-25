@@ -116,10 +116,10 @@ Of all the things listed, I think learning Git is the most important.
 
 This seems like a lot, but you don't have to do all of it. Just choose one or two that you want to do. If you know me personally, you would know that I have chosen CS Teaching Assistant, learning Bash and Git, and doing a personal project. If you choose to do personal or groups projects, make sure that you make it well documented, in case the recruiter comes to look.
 
-Expect each thing in the list to take one to three months. Don't rush. They are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
+Expect each thing in the list to take one to three months. Don't rush. They are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely painful and boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
 
-Some of you, after reading all this, will think that it is too much. If you are already tired and are reading this, rest, and come back again later. Abraham Lincoln said that "You cannot now believe that you will ever feel better. But this is not true. You are sure to be happy again. Knowing this, truly believing it will make you less miserable now."
-This is also true for self-improvement. Knowing that you will improve, and truely believing in it, will make you learn better now.
+Some of you, after reading all this, will think that it is too much. If you are already tired and are reading this, rest, and come back again later. There is a quite unrelated quote I want to give you. Abraham Lincoln said that "You cannot now believe that you will ever feel better. But this is not true. You are sure to be happy again. Knowing this, truly believing it will make you less miserable now."
+This is also true for self-improvement. Knowing that you will improve, and truely believing in it, will make you improve and learn better now.
 
 ## Forth Step: Tech Interview
 
@@ -127,7 +127,11 @@ Some freshmen-only programs do not have tech interview. I have heard that Facebo
 
 The best way to practice doing tech interview is being in one. Mock interviews are not as good as real interviews.
 
-I can tell you a lot of things on tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. Check out the videos and go to career services to practice interviews even though you know you can slove the problems. The hard is often the explanation, rather than the solution itself.
+I can tell you a lot of things on tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. Check out the videos and go to career services to practice interviews even though you know you can slove the problems. The hard is often the explanation, rather than the solution itself. 
+
+Definitely check out the book!
+
+Again, check out the book. The HMC career services have many copy of it.
 
 ## Don't Give Up
 
