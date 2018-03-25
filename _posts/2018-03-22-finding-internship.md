@@ -122,7 +122,9 @@ If you don't know what to choose, message me via Facebook.
 
 Expect each thing in the list to take one to three months. Don't rush. They are hard. They are not hard because they are hard to understand, but they are hard because many of them include extremely painful and boring work. Learning a new computer language is like learning a new human language. You will take time to learn. You take time to adapt and think in such a way.
 
-Some of you, after reading all this, will think that it is too much. If you are already tired and are reading this, rest, and come back again later. There is a quite unrelated quote I want to give you. Abraham Lincoln said that "You cannot now believe that you will ever feel better. But this is not true. You are sure to be happy again. Knowing this, truly believing it will make you less miserable now."
+Some of you, after reading all this, will think that it is too much. If you are already tired and are reading this, rest, and come back again later. 
+
+There is a quite unrelated quote I want to give you. Abraham Lincoln said that "You cannot now believe that you will ever feel better. But this is not true. You are sure to be happy again. Knowing this, truly believing it will make you less miserable now."
 This is also true for self-improvement. Knowing that you will improve, and truely believing in it, will make you improve and learn better now.
 
 ## Forth Step: Tech Interview
