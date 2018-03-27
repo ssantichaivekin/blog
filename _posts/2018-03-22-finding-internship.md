@@ -6,39 +6,39 @@ share: false
 related: false
 ---
 
-I've seen many international students strive to find a tech internship or research to do in the summer. However, we all know that it is harder for international students, and even harder for international freshman. Truth be told, although I am writing this, I haven't got an internship either. But I have got some interviews. Just a few. Three to be excact. But many people haven't got any interview even though they tried hard. So I feel like I am a bit better off. I feel like I can help my friends. I guess if you are lucky, just a few tech interviews might be enough for you.
+I've seen many international students strive to find a tech internship or research to do in the summer. However, we all know that it is harder for international students, and even harder for international freshman. Truth be told, although I am writing this, I haven't got an internship either. However, I have got some interviews. Just a few. Three to be excact. But many people haven't got any interview even though they tried hard, so I feel like I am a bit better off. I feel like I can help my friends. I guess if you are lucky, just a few tech interviews might be enough.
 
-Throughout this post, I will tell you many things that I consider to be helpful and important. I will recommend you to do personal or group projects, take up a TA position, do hackathons or competitive programming, and other things. But you should always remember that what you do is not as important as how you think. Mindset is the most important thing here. It will help lead you to the right place, the right activity, and, if you are lucky, the freshman internship.
+Throughout this post, I will tell you many things that I consider to be helpful. I will recommend you to do personal or group projects, take up a TA position, do hackathons or competitive programming, and other things. But you should always remember that what you do is not as important as how you think. Mindset and passion are the most important thing here. They will help lead you to the right place, the right activity, and, if you are lucky, the freshman internship.
 
 Read more about that [here][from-radon] and [here][from-kws] (link still broken).
 
 [from-radon]: { % post-url 2018-03-23-radon-told-me % }
 [from-kws]: kws
 
-Also, although I am trying to write for international freshmen, this applies to all freshmen, or all international students who are looking for their first tech internship. This guide is extremely subjective, and it is intended to be that way, partly because I believe that a subjective advice (like "you should go do hackathons") is more useful than no advice (like "good luck on the career fair").
+Also, although I am trying to write for international freshmen, this applies to all freshmen, and all international students who are looking for their first tech internship. This guide is subjective; it is intended to be that way, partly because I believe that a subjective advice (like "go do hackathons") is more useful than no advice (like "good luck on the career fair").
 
 ## Motivation
 
 Well, I will just assume that you want an internship. I don't know why. People have different reasons. My reason is that a senior pressured me to get one. Some of my friends feel, I guess, inferior when they are going for CS major and have nothing to do in the summer. (Well, this is Harvey Mudd so...) Most think they will learn a lot from the internship. They think it will be a good life experience. I believe few, but some, are doing it mainly for money. 
 
-I will tell you this. I don't care why you want to do tech internship. I don't care how legit your reasons are. Just know that I want to help you.
+I will tell you this. I don't care why you want to do tech internship. I don't care how coherent your reasons are. Just know that I want to help you.
 
 ## Zeroth Step: Know Where You Can Find Help
 
-Go to your school's career services. They will be able to help you. 
-You should ask for their walk-in hours if they have one. Ask them everything you want about career fair. Also ask them what you are supposed to ask. The career services, together with your school writing center, will be the place and the people who will help you proofread your resumes and cover letters. It is very important to have people help you draft and read your resumes and cover letters, especially if you are an international student.
+Go to your school's career services. They will help you. 
+You should ask for their walk-in hours if they have one. Ask them everything you want about career fair. Also ask them what you are supposed to ask. The career services, together with your school writing center, will be the place that will help you proofread your resumes and cover letters. It is very important to have people help you draft and read your resumes and cover letters, especially if you are an international student.
 
-There is also another resource I want to tell you. It is the upperclassmen you admire. If you think someone is very good at CS, ask them for advice. If you think someone is doing a really cool project, ask them how they came up with it. Ask them to recommend you a learning path. If you follow their learning path, you can ask them for help!
+There is also another resource. It is the upperclassmen you admire. If you think someone is very good at CS, ask them for advice. If you think someone is doing a really cool project, ask them how they came up with it. Ask them to recommend you a learning path. If you follow their learning path, you can ask them for help!
 
-Also, of course you can ask me, but the best I can do is point you to people who are more helpful.
+Also, you can ask me, but the best I can do is point you to people who are more helpful.
 
 ## First Step: But what is a tech internship?
 
-You are applying for a software development internship. It's almost always software development. What does that mean? Well, it means you are writing a software with a small team using source control. 
+You are applying for a software development internship. It's almost always software development. What does that mean? It means you are writing a software with a small team using source control. 
 
-Okay. Let's look at what what they are looking for. The list is ordered by increasing importance. (The list is subjective!)
+Okay. Let's slowly look at what what they are looking for. (The list is subjective!)
 
-But first, let's first think about what they are not looking for:
+But before that, let's first think about what they are not looking for:
 - Enthusiasm in cooking.
 - How well you play skateboard.
 - The fact that you like to eat cookies.
@@ -85,9 +85,9 @@ Also, freshmen-only internships generally require less technical knowledge. Thes
 
 Well, look at the lists above and then just list out what you have done. After that, go to career services with the list. They will help you come up with a pretty good resume.
 
-When you write your resume, be true to yourself. It is better to have short and relevant resume than long resume filled with with irrelevant things.
+When you write your resume, be true to yourself. It is better to have short and relevant resume you like than long resume filled with with irrelevant things.
 
-Take your time. Give yourself a week to write your resume. Don't rush. If you are like me, you did your CS projects in your home country, in your home language. If that is the case, it is better to try to recall those memories and write about it in your native language first, and then translate it later. If your memory is encrypted in your native language, it is much harder to retrieve it in English. In this sense, the people who will be the most helpful to you are your friends of upperclassmen from your home country.
+Take your time. Give yourself a week to write your resume. Don't rush. If you are like me, you did your CS projects in your home country, in your home language. If that is the case, it is better to try to recall those memories and write about it in your native language first, and then translate it later. If your memory is encrypted in your native language, it is much harder to retrieve it in English. In that sense, the people who will be the most helpful to you are your friends or upperclassmen from your home country.
 
 Here is what my [first resume][first-resume] looks like.
 
@@ -100,6 +100,8 @@ Note that if you say you can write C in your resume, interviewers might ask you 
 I recommend that you go to career services to help you draft your first resume. If you think it looks good and it shows that you have the ability they are looking for, then you are good. Proofread the resume and submit. If that's the case, then generally you won't be reading my article. The problem most people face is that they do not have enough experience to secure an internship in the first place.
 
 Also, some position will require a cover letter. The cover letter is not hard to write. There is an established template to follow. Just go to your school career services and ask for help. You should be able to finish it in less than an hour.
+
+Some, but very few, will require an essay. I don't know what to recommend about that. I'm generally lazy and will never apply for internships that require an essay. However, if you are good at writing, this is your chance. Internships that require essay are much less competitive since, you can guess, less people apply.
 
 ## Third Step: Improve Yourself
 
@@ -133,11 +135,11 @@ Some freshmen-only programs do not have tech interview. I have heard that Facebo
 
 The best way to practice doing tech interview is being in one. Mock interviews are not as good as real interviews.
 
-I can tell you a lot of things on tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. Check out the videos and go to career services to practice interviews even though you know you can slove the problems. The hard is often the explanation, rather than the solution itself. 
+I can tell you a lot of things about tech interviews, but I think there are people who can tell better. Go check [HackerRank](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), listen to their videos, and slove their problems. Also, check out the book Cracking the Coding Interview and go to your career services. Check out the videos and go to career services to practice interviews even though you know you can slove the problems. The hard is often the explanation, rather than the solution itself. 
 
 Definitely check out the book!
 
-Again, check out the book. The HMC career services have many copy of it.
+Again, check out the book. The HMC career services have many copy of it. I believe other career services also have it.
 
 ## Don't Give Up
 
@@ -165,13 +167,15 @@ Dropbox (hard)
 Box (hard)
 vmWare (hard)
 
+Hard means that it requires technical knowledge. If you get the Dropbox position, you are likely to get many other positions.
+
 There are, of course, a lot more companies that accept international freshmen internship. Please add it here if you know some.
 
 Note that all of them have online applications. You can always apply online. It makes no difference whether you apply online or through career fairs.
 
 ## Bonus 1: But why am I in such a rush?
 
-After reading all this, you might still think finding internship in the first year is still unnecessary. I guess I will have to tell you my own secret.
+After reading all this, you might still think finding internship in the first year is still unnecessary. I guess I will have to tell you a secret, my own secret.
 
 Whisper: Well, if you are like me, and I hope you are not, you will graduate with around four hundred thousand dollars of debt. Again, I hope you are not, but if you are, you will have to find a job that will pay for your debt. And if economic independence is one of your goal, you will want to find a well-paying job that will get you out of your debt fast.
 
@@ -181,14 +185,11 @@ Whisper: Exchange-student (J-1) visa holders are even less likely to be hired, a
 
 Whisper: The reason recruiters do not like J-1 is because a J-1 holder can only work for two years after graduation. After that, they are not allowed to stay in the US until they go back to their home country for two years. Although there some ways to get around this, say, work in Canada to pay off the debt before returning to the home country, it does not happen a lot.
 
-So you see, a job is more important for me because it is harder for me to secure one. I also have to try harder for internship beacuse I know that unexpected surprise can happen (say, Mike Pence becomes the next president).
+So you see, a job is more important for me because it is harder for me to secure one. I also have to try harder for internship beacuse I know that unexpected surprise can happen (say, Mike Pence becomes the next president). It might not be important to you, but it is to me.
 
 ## Bonus 2:
 
 You might think I am writing this with too much confident. How can I, someone who haven't got any internship, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is more legit now.
-
-This article is devoted to [KorlaMarch](korlamarch-github).
-[korlamarch-github]: https://github.com/KorlaMarch
 
 
 
