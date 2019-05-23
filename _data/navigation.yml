@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Arts"
-    url: /arts/
   - title: "Resume"
     url: /resume/
   - title: "Blog"
