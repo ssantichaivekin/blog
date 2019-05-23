@@ -166,7 +166,7 @@ Yelp
 Uber
 Dropbox (hard)
 Box (hard)
-vmWare (hard)
+VMWare (hard)
 
 Hard means that it requires technical knowledge. If you get the Dropbox position, you are likely to get many other positions.
 
@@ -190,7 +190,7 @@ So you see, a job is more important for me because it is harder for me to secure
 
 ## Bonus 2:
 
-You might think I am writing this with too much confident. How can I, someone who haven't got any internship, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is more legit now.
+You might think I am writing this with too much confidence. How can I, someone who haven't got any internship, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is legit now.
 
 
 
