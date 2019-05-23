@@ -1,9 +1,10 @@
 ---
 layout: single
 title:  "Resume"
-date:   2018-03-13 15:51:00 -0700
+author_profile: true
+date:   2019-04-23 2:15:00 -0700
 share: false
 related: false
 ---
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/ssantichaivekin/resume/raw/master/resume.pdf&embedded=true" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://github.com/ssantichaivekin/resume/raw/master/resume.pdf&embedded=true" frameborder="0" style="width:800px; height:1050px"></iframe>
