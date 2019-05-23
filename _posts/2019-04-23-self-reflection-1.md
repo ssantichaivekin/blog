@@ -9,7 +9,7 @@ related: false
 
 ## Do I have what it takes to write code?
 
-In the past year, I had a good amount of time to reflect what it means to write code and what it means to write good code. I think it will be quite fun to share what I learned emotionally about coding throughout the year. First, I want to point out that everyone can code. Coding is not an innate ability that you have or not have. It is a skill that can be developed through patience by people with any learning style, personality, or background. Different people like different learning style, but of course, mine is the BEST. LEARNING STYLE. EVER. Well, because my learning style is so good, I think I should keep it to myself. Rather than tell you about my learning style, I will tell you about myself.
+In the past year, I had a good amount of time to reflect what it means to write code and what it means to write good code. I think it will be quite fun to share what I learned emotionally about coding throughout the year. First, I want to point out that everyone can code. Coding is not an innate ability that you have or not have. It is a skill that can be developed through patience by people with any learning style, personality, or background. Different people like different learning style, but of course, mine is the BEST. LEARNING STYLE. EVER. Well, because my learning style is so good, I think I should keep it to myself. Rather than telling you about my learning style, I will tell you about myself.
 
 ## Self-Reflection Part I: Overcoming the fear of coding
 
