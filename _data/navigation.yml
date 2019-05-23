@@ -2,8 +2,8 @@
 main:
   - title: "Arts"
     url: /arts/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Resume"
+    url: /resume/
   - title: "Blog"
     url: /
   # - title: "Sample Collections"
