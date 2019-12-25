@@ -111,7 +111,7 @@ I have seen people, who, believing that they are already fit for internship posi
 I can give you some recommendations on what you might want to try:
 
 - Apply for CS Teaching Assistant in your second semester.
-- Learn Bash and Git. I have [a good coursera course here](https://www.coursera.org/learn/unix). I think most Git tutorials on Google are good. I personally like Codeschool's tutorial. If you have a question about Git, go ask a CS upperclassman.
+- Learn Bash and Git. There's [a good coursera course here](https://www.coursera.org/learn/unix). I think most Git tutorials on Google are good. I personally like Codeschool's tutorial. If you have a question about Git, go ask a CS upperclassman.
 - Learn Javascript/HTML/CSS bundle (only if you want to work on JavaScript project).
 - Go to software development hackathons. Spend the time to talk with people and learn from them.
 - Do a personal project. Do something that matters to you. See [kosate.com](http://kosate.com) for web project ideas. You can look at [my github](https://github.com/ssantichaivekin) for a small python project. If you want some project ideas, you can ask me. I have a lot in my drawer.
@@ -176,21 +176,17 @@ Note that all of them have online applications. You can always apply online. It 
 
 ## Bonus 1: But why am I in such a rush?
 
-After reading all this, you might still think finding internship in the first year is still unnecessary. I guess I will have to tell you a secret, my own secret.
+After reading all this, you might still think finding internship in the first year is still unnecessary. I guess I will have to tell you my secret.
 
 Whisper: Well, if you are like me, and I hope you are not, you will graduate with around four hundred thousand dollars of debt. Again, I hope you are not, but if you are, you will have to find a job that will pay for your debt. And if economic independence is one of your goal, you will want to find a well-paying job that will get you out of your debt fast.
 
 So basically, I want to make sure I have a job after I graduate.
 
-Whisper: Exchange-student (J-1) visa holders are even less likely to be hired, and I'm holding that kind of visa. Two of my friends got their internship offers cancled just when the employer knows that they are holding J-1. Of course, the company won't tell you that's the reason, and, of course, the career services would not help you if this kind of thing happens.
+- Exchange-student (J-1) visa holders are even less likely to be hired, and I'm holding that kind of visa. Two of my friends got their internship offers cancled just when the employer knows that they are holding J-1. Of course, the company won't tell you that's the reason, and, of course, the career services would not help you if this kind of thing happens.
 
-Whisper: The reason recruiters do not like J-1 is because a J-1 holder can only work for two years after graduation. After that, they are not allowed to stay in the US until they go back to their home country for two years. Although there some ways to get around this, say, work in Canada to pay off the debt before returning to the home country, it does not happen a lot.
+- The reason recruiters do not like J-1 is because a J-1 holder can only work for two years after graduation. After that, they are not allowed to stay in the US until they go back to their home country for two years. Although there some ways to get around this, say, work in Canada to pay off the debt before returning to the home country, it does not happen a lot.
 
 So you see, a job is more important for me because it is harder for me to secure one. I also have to try harder for internship beacuse I know that unexpected surprise can happen (say, Mike Pence becomes the next president). It might not be important to you, but it is to me.
-
-## Bonus 2:
-
-You might think I am writing this with too much confidence. How can I, someone who haven't got any internship, help you? Well, Microsoft just called me (unofficailly) that I got the internship while I am finishing the post. So I guess my article is legit now.
 
 
 
