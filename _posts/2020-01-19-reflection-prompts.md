@@ -8,7 +8,7 @@ related: false
 ---
 Today, I talked with Thanadol Chomphoochan (Aqua). For some reason, we decided to talk about college essays and came up with this huge list of reflective questions. Whatever comes up in your mind counts. There is no wrong answer. Enjoy pondering, high schoolers.
 
-![Funny cartoon image depicting mushy rainbow coming out of one's head](/assets/oh-just-my-mind.jpeg)
+![Funny cartoon image depicting mushy rainbow coming out of one's head](../assets/oh-just-my-mind.jpeg)
 
 1.  How many language and/or dialects do you speak? Do you think it reflects parts of your identity?
 2.  How were you raised as a child? Were your parents strict? Did they have expectations? What about religious and political aspects? How did that affect your life?
